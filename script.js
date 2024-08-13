@@ -39,7 +39,7 @@ const perguntas = [
             {
                 texto: "Fazer contato com outros grupos pode resultar em alianças e aumentar nossas chances de encontrar uma solução.",
                 afirmacao: "Sim, acredito que unir forças com outros grupos pode ser benéfico. Juntos, temos mais chances de encontrar uma solução e sobreviver. "
-            }
+            },
          {
                 texto: "Fazer contato com outros grupos pode trazer traições e conflitos que colocariam todos em perigo. ",
                 afirmacao: "Não, acho que devemos evitar contato com outros grupos. O risco de traições e conflitos é muito alto."
