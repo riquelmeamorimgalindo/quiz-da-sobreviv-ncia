@@ -6,6 +6,7 @@ root{
     --cor-texto: #55fc57;
 }
 
+
 body{
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
