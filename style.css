@@ -47,5 +47,6 @@ button:hover{
 }
 .caixa-alternativas{
     padding: 10px;
+    display: flex;
     margin: 2em;
 }
