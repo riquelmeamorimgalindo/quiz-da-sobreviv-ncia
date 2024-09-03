@@ -37,11 +37,14 @@ button{
     color: var(--cor-texto);
     border: none;
     border-radius: 30px;
-    padding: 30px;
+    padding: 15px;
     transition: background-color 0.3s;
 }
 
 button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
+}
+.caixa-alternativas{
+    padding: 10px;
 }
